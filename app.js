@@ -1,0 +1,1 @@
+alert('Oiii, Desculpa por tudo... vc realmente se importa comigo e as vezes não reconhço isso, maaas precisava tirar um tempo para pensar de uma maneira que não lhe atingisse tanto. Não quero ser mais aquele cara que só traz problemas... Enfim, eu te amo muitão Cabeçuda e Foi mal, fica com Deus linda. Ass: Boaz');
